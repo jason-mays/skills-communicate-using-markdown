@@ -23,3 +23,8 @@ Javascript:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Starting on a task list next.
+- [ ] Task one (incomplete)
+- [x] Task two (complete)
+- [x] Task three (also complete)
+
