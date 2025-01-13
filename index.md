@@ -4,3 +4,8 @@
 ###### Header 6 example.
 
 Added some headers for tutorial.
+
+Now adding an image:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
