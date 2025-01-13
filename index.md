@@ -9,3 +9,17 @@ Now adding an image:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Adding some code examples next...
+
+Vanilla:
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Javascript:
+
+``` javascript
+var myVar = "Hello, world!";
+```
